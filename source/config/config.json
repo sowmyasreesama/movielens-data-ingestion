@@ -1,0 +1,6 @@
+{
+    "source-bucket":"indus-valley-movielens-landing",
+    "source-folder":"movielens",
+    "target-bucket":"indus-valley-movielens-raw"
+}
+  
